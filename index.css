@@ -226,6 +226,7 @@
     border-radius: 30px; /* Same border radius */
     font-size: calc(19 * var(--ratio));
     color: #0d0d0dff;
+    cursor:pointer;
   }
   
   .submit-23113-0 {
