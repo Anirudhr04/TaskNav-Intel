@@ -12,7 +12,6 @@ An intelligent task management tool to assist users in effectively managing both
 Project is created with:
 * HTML, CSS, JS
 * Google Firebase - To store realtime data and to process user authentication
-* Flask for backend
 
 ## Features
 
