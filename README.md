@@ -32,7 +32,7 @@ Project is created with:
 
 ## Credits
 
-Thanks to the team:
+The team:
 - Dhanush P
 - Sharan R 
 - Anirudh R 
