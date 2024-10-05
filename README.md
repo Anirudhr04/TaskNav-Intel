@@ -6,9 +6,9 @@
 * [Start](#start)
 
 ## Intro
-The scope of this project...
+An intelligent task management tool to assist users in effectively managing both indoor and outdoor tasks. It uses artificial intelligence (AI) to recommend nearby places for activities like shopping and to plan indoor activities like meetings and study sessions based on the user's free time. To assign tasks to available time slots, the app integrates with calendars and location-based services like Google Maps.
 
-## Installation
+## Tech Stack used
 Project is created with:
 * Python 3.7
 
