@@ -1,0 +1,227 @@
+/*
+  Note: These are temporary previews of the images. 
+  They're active for 10-15 days only. You should replace them with the actual images before using the code in production.
+*/
+:root {
+    --custom-width: 100vw;
+    --design-width: 412;
+    --ratio: calc(var(--custom-width) / var(--design-width));
+  }
+  
+  /* Default classes */
+  .pos-abs {
+    position: absolute;
+  }
+  .fill-parent {
+    width: 100%;
+    height: 100%;
+  }
+  .bg-contain {
+    background-size: contain;
+  }
+  .bg-cover {
+    background-size: cover;
+  }
+  .bg-auto {
+    background-size: auto;
+  }
+  .bg-crop {
+    background-size: 100% 100%;
+  }
+  .bg-no-repeat {
+    background-repeat: no-repeat;
+  }
+  .pos-init {
+    top: 0px;
+    left: 0px;
+  }
+  .image-div {
+    background-color: transparent;
+    background-position: center;
+  }
+  /* Default classes end */
+  body {
+    margin: 0px 0px;
+    padding: 0px;
+  }
+  .parent-div {
+    position: relative;
+    width: var(--custom-width);
+    height: calc(917 * var(--ratio));
+    overflow: hidden;
+    margin: auto;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  .android-compact-96158 {
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    opacity: 1;
+    z-index: 1;
+    transform: rotate(0deg);
+    overflow: hidden;
+    background: #222222ff;
+  }
+  .ellipse-2-96160 {
+    width: 190.05%;
+    height: 78.63%;
+    top: -35.22%;
+    left: -72.57%;
+    opacity: 1;
+    z-index: 1;
+    transform: rotate(0deg);
+    border-radius: 50%;
+    background: #1d3e7f66;
+    filter: blur(100px);
+  }
+  .rectangle-2-96161 {
+    width: 86.17%;
+    height: 53.44%;
+    top: 22.57%;
+    left: 6.8%;
+    opacity: 1;
+    z-index: 2;
+    transform: rotate(0deg);
+    border-radius: 20px 20px 20px 20px;
+    background: #c09b9b1a;
+    box-sizing: border-box;
+    border-left: 1px solid #5d51511c;
+    border-right: 1px solid #5d51511c;
+    border-top: 1px solid #5d51511c;
+    border-bottom: 1px solid #5d51511c;
+    backdrop-filter: blur(3.9000000953674316px);
+  }
+  .tasknav-96168 {
+    width: 54.13%;
+    height: 10.91%;
+    top: 25.08%;
+    left: 25.49%;
+    opacity: 1;
+    z-index: 9;
+    transform: rotate(0deg);
+    text-align: left;
+    line-height: 0px;
+  }
+  .tasknav-96168-0 {
+    font-size: calc(49 * var(--ratio));
+  
+    line-height: calc(50 * var(--ratio));
+  
+    font-family: Kadwa;
+    font-weight: 400;
+  
+    text-decoration: none;
+    text-transform: none;
+    white-space: pre-wrap;
+    color: #ffffffff;
+  }
+  .rectangle-4-96164 {
+    width: 64.56%;
+    height: 4.25%;
+    top: 40.68%;
+    left: 17.72%;
+    opacity: 1;
+    z-index: 5;
+    transform: rotate(0deg);
+    border-radius: 30px 30px 30px 30px;
+    background: #ffffff1a;
+  }
+  .add-tasks-96165 {
+    width: 54.13%;
+    height: 4.36%;
+    top: 41.76%;
+    left: 38.14%;
+    opacity: 1;
+    z-index: 6;
+    transform: rotate(0deg);
+    text-align: left;
+    line-height: 0px;
+  }
+  .your-timetable-96167{
+    margin-top:2.5%;
+    margin-left:1%
+  }
+  .add-tasks-96165-0,
+  .your-timetable-96167-0 {
+    font-size: calc(19 * var(--ratio));
+    line-height: calc(20 * var(--ratio));
+  
+    font-family: Kadwa;
+    font-weight: 400;
+  
+    text-decoration: none;
+    text-transform: none;
+    white-space: pre-wrap;
+    color: #ffffffff;
+  }
+  .rectangle-6-96166 {
+    width: 64.56%;
+    height: 4.25%;
+    top: 50.93%;
+    left: 17.72%;
+    opacity: 1;
+    z-index: 7;
+    transform: rotate(0deg);
+    border-radius: 30px 30px 30px 30px;
+    background: #ffffff1a;
+  }
+  .your-timetable-96167 {
+    width: 41.26%;
+    height: 4.36%;
+    top: 50.93%;
+    left: 32.04%;
+    opacity: 1;
+    z-index: 8;
+    transform: rotate(0deg);
+    text-align: left;
+    line-height: 0px;
+  }
+  .rectangle-7-96162 {
+    width: 29.61%;
+    height: 4.25%;
+    top: 67.5%;
+    left: 52.43%;
+    opacity: 1;
+    z-index: 3;
+    transform: rotate(0deg);
+    background: #f57239ff;
+  }
+  .logout-96163 {
+    width: 30.1%;
+    height: 2.84%;
+    top: 68.27%;
+    left: 52.18%;
+    opacity: 1;
+    z-index: 4;
+    transform: rotate(0deg);
+    text-align: center;
+    line-height: 0px;
+  }
+  .logout-96163-0 {
+    font-size: calc(19 * var(--ratio));
+  
+    line-height: calc(20 * var(--ratio));
+  
+    font-family: Kantumruy Pro;
+    font-weight: 500;
+  
+    text-decoration: none;
+    text-transform: none;
+    white-space: pre-wrap;
+    color: #0d0d0dff;
+  }
+  .ellipse-1-96159 {
+    width: 136.17%;
+    height: 64.89%;
+    top: 74.15%;
+    left: 22.57%;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    border-radius: 50%;
+    background: #f5723966;
+    filter: blur(100px);
+  }
+  
