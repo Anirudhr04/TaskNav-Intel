@@ -1,7 +1,7 @@
 ## TaskNav - A daily task intimation app
 
 ## Table of contents
-* [Introduction](#Intro)
+* [Introduction](#Intro)5
 * [Installation](#Installation)
 * [Start](#start)
 
@@ -22,19 +22,17 @@ Project is created with:
 * Google Maps Integration: Automatically shows the best nearby locations for outdoor tasks based on the entered product or task.
 * Calendar Sync: Syncs with your calendar to avoid conflicts and assign tasks to free slots.
 * Customizable Task Types: Whether it's study time, shopping, or meetings, categorize and customize the tasks based on your needs.
+
+## Flowchart
+
+![WhatsApp Image 2024-10-05 at 06 17 41_2f75fb2e](https://github.com/user-attachments/assets/7325f6f8-40fe-48be-948e-388d385e9c41)
+
 	
-## start
-To run this project, run he main file
-
-```
-$ python main.py
-
-```
 
 ## Credits
 
 Thanks to the team:
-- Dhanush P (https://github.com/contributor1)
-- Sharan R (https://github.com/contributor2)
-- Anirudh R (https://github.com/contributor2)
-- Ramakrishnan V (https://github.com/contributor2)
+- Dhanush P
+- Sharan R 
+- Anirudh R 
+- Ramakrishnan V 
